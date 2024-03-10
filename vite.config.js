@@ -6,7 +6,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/asa_frontend_updated-main/",
+  base: "/asa_frontend_CW3/",
   plugins: [
     vue(),
     vueJsx(),

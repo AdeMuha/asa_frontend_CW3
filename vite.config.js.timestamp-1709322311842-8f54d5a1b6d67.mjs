@@ -5,7 +5,7 @@ import vue from "file:///C:/Users/jorda/Downloads/CW2/CW2/After-school-classes-a
 import vueJsx from "file:///C:/Users/jorda/Downloads/CW2/CW2/After-school-classes-and-activities_Fontend/node_modules/@vitejs/plugin-vue-jsx/dist/index.mjs";
 var __vite_injected_original_import_meta_url = "file:///C:/Users/jorda/Downloads/CW2/CW2/After-school-classes-and-activities_Fontend/vite.config.js";
 var vite_config_default = defineConfig({
-  base: "/asa_frontend_updated-main/",
+  base: "/asa_frontend_CW3/",
   plugins: [
     vue(),
     vueJsx()
